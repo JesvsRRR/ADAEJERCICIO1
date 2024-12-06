@@ -95,5 +95,37 @@ import java.util.Scanner;
         }
     }
 ```    
+> III) Impresión y calculo de la sumas diagonales de la matriz
 
+```bash   
+    System.out.println("MATRIZ: ");
+        
+    int k = d - 1;
+    for(int i= 0;i < d;i++){
+        
+        for(int j=0; j < d;j++){
+            System.out.print("["+Matriz[i][j]+"]");
+            if(j == i){
+            almacenar_sumadiagonal[0] += Matriz[i][j];    
+            }
+            if(j == k){
+            almacenar_sumadiagonal[1] += Matriz[i][j];    
+            }
+            
+        }
+    System.out.println("");    
+    k--;
 
+      
+    }
+    return almacenar_sumadiagonal;  
+    }
+```
+> IV) Asignación e impresión de salida de los resultados de las sumas diagonales de la matriz dXd
+
+```bash   
+        int[] almacenar_sumadiagonal = calcular(d);
+        System.out.println("SUMA DIAGONAL IZQUIERDA: " + almacenar_sumadiagonal[0]);
+        System.out.println("SUMA DIAGONAL DERECHA: " + almacenar_sumadiagonal[1]);
+    }
+```

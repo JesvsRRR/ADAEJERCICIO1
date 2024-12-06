@@ -63,4 +63,4 @@ import java.util.Scanner;
 
 # 2. Resolución
 
-> **a)** ***Explicación del algoritmo***
+> ***a)*** ***Explicación del algoritmo***

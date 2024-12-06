@@ -1,7 +1,7 @@
 ```bash
 import java.util.Scanner;
 
-    public class UNO {
+    public class Main {
 
     public static int[] calcular(int d){
     Scanner sc = new Scanner(System.in);    

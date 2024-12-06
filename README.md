@@ -62,3 +62,5 @@ import java.util.Scanner;
 </p>
 
 # 2. Resolución
+
+## a) Explicación del algoritmo

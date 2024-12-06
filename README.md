@@ -71,7 +71,7 @@
     }
 ```
 
-### b) Codigo completo
+### Codigo completo
 
 ```bash
 import java.util.Scanner;

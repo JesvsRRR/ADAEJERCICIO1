@@ -65,6 +65,7 @@ import java.util.Scanner;
 
 > ***a)*** ***Explicación del algoritmo***
 
+### Datos de entrada
 
 ```bash
     public static void main(String[] args) {

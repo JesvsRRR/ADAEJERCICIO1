@@ -64,3 +64,20 @@ import java.util.Scanner;
 # 2. Resolución
 
 > ***a)*** ***Explicación del algoritmo***
+
+
+```bash
+    public static void main(String[] args) {
+     Scanner sc = new Scanner(System.in);
+        System.out.println("Ingresar dimension [d]: ");
+        int d = sc.nextInt();
+        
+        if(d <= 0){
+           d = sc.nextInt();;
+        }
+        
+        int[] almacenar_sumadiagonal = calcular(d);
+        System.out.println("SUMA DIAGONAL IZQUIERDA: " + almacenar_sumadiagonal[0]);
+        System.out.println("SUMA DIAGONAL DERECHA: " + almacenar_sumadiagonal[1]);
+    }
+```

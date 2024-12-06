@@ -65,7 +65,7 @@ import java.util.Scanner;
 
 ### a) Explicación del algoritmo
 
-> I) Función de datos de entrada
+> I) Ingreso de datos de entrada
  
 ```bash
     public static void main(String[] args) {
@@ -82,3 +82,4 @@ import java.util.Scanner;
         System.out.println("SUMA DIAGONAL DERECHA: " + almacenar_sumadiagonal[1]);
     }
 ```
+> II) Calculo e impresión de las sumas diagonales 

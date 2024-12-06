@@ -63,4 +63,4 @@ import java.util.Scanner;
 
 # 2. Resolución
 
-** 1. Elemento **
+> Esto es una cita.

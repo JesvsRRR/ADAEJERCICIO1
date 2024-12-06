@@ -65,7 +65,7 @@ import java.util.Scanner;
 
 ### a) Explicación del algoritmo
 
-> I) Ingreso de datos de entrada
+> I) Ingreso de
  
 ```bash
     public static void main(String[] args) {
@@ -94,27 +94,6 @@ import java.util.Scanner;
             Matriz[i][j] = sc.nextInt();
         }
     }
-    
-    System.out.println("MATRIZ: ");
-        
-    int k = d - 1;
-    for(int i= 0;i < d;i++){
-        
-        for(int j=0; j < d;j++){
-            System.out.print("["+Matriz[i][j]+"]");
-            if(j == i){
-            almacenar_sumadiagonal[0] += Matriz[i][j];    
-            }
-            if(j == k){
-            almacenar_sumadiagonal[1] += Matriz[i][j];    
-            }
-            
-        }
-    System.out.println("");    
-    k--;
+```    
 
-      
-    }
-    return almacenar_sumadiagonal;  
-    }
-```
+

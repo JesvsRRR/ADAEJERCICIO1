@@ -56,5 +56,5 @@ import java.util.Scanner;
 }
 ```
 
-![Imagen de ejemplo](imagen.png)
+![Imagen de ejemplo](image.png)
 

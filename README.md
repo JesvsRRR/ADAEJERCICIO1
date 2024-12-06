@@ -78,9 +78,6 @@ import java.util.Scanner;
         }
         
         int[] almacenar_sumadiagonal = calcular(d);
-        System.out.println("SUMA DIAGONAL IZQUIERDA: " + almacenar_sumadiagonal[0]);
-        System.out.println("SUMA DIAGONAL DERECHA: " + almacenar_sumadiagonal[1]);
-    }
 ```
 > II) Calculo e impresión de las sumas diagonales 
  

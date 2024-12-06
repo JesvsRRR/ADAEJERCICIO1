@@ -63,10 +63,10 @@ import java.util.Scanner;
 
 # 2. Resolución
 
-> ***a)*** ***Explicación del algoritmo***
+### a) Explicación del algoritmo
 
-### Datos de entrada
-
+> Datos de entrada
+ 
 ```bash
     public static void main(String[] args) {
      Scanner sc = new Scanner(System.in);

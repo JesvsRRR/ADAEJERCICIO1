@@ -55,3 +55,6 @@ import java.util.Scanner;
     
 }
 ```
+
+![Imagen de ejemplo](imagen.png)
+

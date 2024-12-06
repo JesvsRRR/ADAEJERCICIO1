@@ -55,6 +55,8 @@ import java.util.Scanner;
     
 }
 ```
+<p align="center">
+  <img src="image.png" alt="Imagen del ejercicio n°1" />
+</p>
 
-![Imagen de ejemplo](image.png)
 

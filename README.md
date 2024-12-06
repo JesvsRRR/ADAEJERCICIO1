@@ -1,7 +1,4 @@
-## Uso
-1. Clona el repositorio.
-2. Ejecuta el archivo principal:
-   ```bash
+```bash
     import java.util.Scanner;
 
     public class UNO {
@@ -59,4 +56,4 @@
     }
     
 }
-   ```
+```

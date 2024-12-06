@@ -6,8 +6,6 @@
 
 # 2. Resolución
 
-### a) Explicación del algoritmo
-
 > I) Entrada del valor de la variable "dimension"
  
 ```bash
@@ -132,3 +130,4 @@ import java.util.Scanner;
     
 }
 ```
+# 3. Complejidad

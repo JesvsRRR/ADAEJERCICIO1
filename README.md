@@ -55,10 +55,10 @@ import java.util.Scanner;
     
 }
 ```
-# PROBLEMA
+# 1. PROBLEMA
 
 <p align="center">
   <img src="image.png" alt="Imagen del ejercicio n°1" />
 </p>
 
-
+# 2. RESOLUCIÓN

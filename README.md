@@ -65,7 +65,7 @@ import java.util.Scanner;
 
 ### a) Explicación del algoritmo
 
-> I) Ingreso de
+> I) Entrada del valor de la variable "dimension"
  
 ```bash
     public static void main(String[] args) {
@@ -79,7 +79,7 @@ import java.util.Scanner;
         
         int[] almacenar_sumadiagonal = calcular(d);
 ```
-> II) Calculo e impresión de las sumas diagonales 
+> II) Ingreso de numeros enteros en la matriz 
  
 
 ```bash     

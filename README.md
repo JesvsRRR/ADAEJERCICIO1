@@ -83,3 +83,41 @@ import java.util.Scanner;
     }
 ```
 > II) Calculo e impresión de las sumas diagonales 
+ 
+
+```bash     
+    public static int[] calcular(int d){
+    Scanner sc = new Scanner(System.in);      
+    int[] almacenar_sumadiagonal = new int[2];
+    int[][] Matriz = new int[d][d];
+    
+    for(int i=0; i < d; i++){
+        for(int j=0; j < d;j++){
+            System.out.print("["+i+"]"+"[" + j+"]");
+            Matriz[i][j] = sc.nextInt();
+        }
+    }
+    
+    System.out.println("MATRIZ: ");
+        
+    int k = d - 1;
+    for(int i= 0;i < d;i++){
+        
+        for(int j=0; j < d;j++){
+            System.out.print("["+Matriz[i][j]+"]");
+            if(j == i){
+            almacenar_sumadiagonal[0] += Matriz[i][j];    
+            }
+            if(j == k){
+            almacenar_sumadiagonal[1] += Matriz[i][j];    
+            }
+            
+        }
+    System.out.println("");    
+    k--;
+
+      
+    }
+    return almacenar_sumadiagonal;  
+    }
+```

@@ -63,4 +63,4 @@ import java.util.Scanner;
 
 # 2. Resolución
 
-> Esto es una cita.
+> a) Explicación del algoritmo

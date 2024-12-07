@@ -135,5 +135,20 @@ import java.util.Scanner;
 
 > I) Entrada del valor de la variable "dimension"
 
-- COMPLEJIDAD TIEMPO O(1)
-- COMPLEJIDAD DE ESPACIO O(1)
+- Complejidad de tiempo: 𝑂(1)
+- Complejidad de espacio: 𝑂(1)
+
+> II) Ingreso de numeros enteros en la matriz 
+
+- Complejidad de tiempo: 𝑂(d²)
+- Complejidad de espacio: 𝑂(d²)
+
+> III) Impresión y calculo de la sumas diagonales de la matriz
+
+- Complejidad de tiempo: 𝑂(d²)
+- Complejidad de espacio: 𝑂(d²)
+
+> IV) Asignación e impresión de salida de los resultados de las sumas diagonales de la matriz dXd
+
+- Complejidad de tiempo: 𝑂(d²)
+- Complejidad de espacio: 𝑂(d²)

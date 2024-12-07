@@ -17,11 +17,12 @@
         if(d <= 0){
            d = sc.nextInt();;
         }
-        
-        int[] almacenar_sumadiagonal = calcular(d);
 ```
 > II) Ingreso de numeros enteros en la matriz 
- 
+
+```bash
+        int[] almacenar_sumadiagonal = calcular(d);
+```
 
 ```bash     
     public static int[] calcular(int d){

@@ -21,7 +21,7 @@
 > II) Ingreso de numeros enteros en la matriz 
 
 ```bash
-        int[] almacenar_sumadiagonal = calcular(d);
+    int[] almacenar_sumadiagonal = calcular(d);
 ```
 
 ```bash     
@@ -135,4 +135,5 @@ import java.util.Scanner;
 
 > I) Entrada del valor de la variable "dimension"
 
-- O(1)
+- COMPLEJIDAD TIEMPO O(1)
+- COMPLEJIDAD DE ESPACIO O(1)

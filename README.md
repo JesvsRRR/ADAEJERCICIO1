@@ -7,6 +7,7 @@
 # 2. Resolución
 
 > I) Entrada del valor de la variable "dimension"
+Al iniciar el algoritmo se pedira ingresar un valor para la variable "d", dicho dato sera el n° de filas y n° de columnas de la matriz cuadratica
 
 ```bash
  import java.util.Scanner;

@@ -131,3 +131,7 @@ import java.util.Scanner;
 }
 ```
 # 3. Complejidad
+
+> I) Entrada del valor de la variable "dimension"
+
+- O(1)
